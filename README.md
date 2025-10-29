@@ -1,5 +1,8 @@
 Interactive financial dashboard for home improvement retailers. Retrieves company data via Financial Modeling Prep, transforms it in Python, and visualizes key metrics in Tableau to assess financial health across major industry players.
 
+## [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/NOTEBOOK_NAME.ipynb)
+
+
 ## Tableau Dashboard
 
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/HomeImprovement_17613366392310/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

@@ -1,0 +1,2 @@
+# Home-Improvement
+nteractive financial dashboard for home improvement retailers. Retrieves company data via Financial Modeling Prep, transforms it in Python, and visualizes key metrics in Tableau to assess financial health across major industry players.

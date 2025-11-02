@@ -1,6 +1,6 @@
 Interactive financial dashboard for home improvement retailers. Retrieves company data via Financial Modeling Prep, transforms it in Python, and visualizes key metrics in Tableau to assess financial health across major industry players. Includes time series revenue forecasts for Home Depot and Lowe’s over the next eight quarters using Prophet.
 
-## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alanaahart/Home-Improvement/blob/main/Home_Improvement_Analysis(1).ipynb)
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alanaahart/Home-Improvement/blob/main/Home_Improvement_Analysis(1).ipynb)
 
 
 ## Tableau Dashboard

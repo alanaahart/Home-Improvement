@@ -13,6 +13,7 @@ Interactive financial dashboard for home improvement retailers. Retrieves compan
 - Used to connect to the **Financial Modeling Prep (FMP) API**
 - Extracted financial data 
 - Cleaned and transformed data using `pandas` for compatibility with Tableau
+- Performed time series forecasting with Prophet for Home Depot and Lowe’s (8-quarter revenue projection)
 
 ### Financial Modeling Prep API
 - Queried endpoints for:
@@ -22,14 +23,16 @@ Interactive financial dashboard for home improvement retailers. Retrieves compan
 - Enabled dynamic data retrieval for multiple companies
 
 ### Tableau Public
-- Imported cleaned data for visualization
-- Designed an **executive finance dashboard** featuring:
-  - KPI carousel for liquidity metrics
-  - Company level filtering and interactivity
-- Published the dashboard to Tableau Public for public access and sharing
+ - Imported cleaned and forecasted data
+ - Designed executive finance dashboard with:
+     - KPI carousel for liquidity metrics
+     - Company level filtering and interactivity
+     - Revenue trend comparisons across companies
+ - Published dashboard to Tableau Public for sharing
 
 ### Integration Workflow
 1. **Extract**: Pull financial data from FMP API using Python
 2. **Transform**: Clean and reshape data for analysis
-3. **Load**: Export to CSV and import into Tableau
-4. **Visualize**: Build interactive dashboard tailored for executive decision-making
+3. **Forecast**: Forecast revenue using Prophet
+4. **Load**: Export to CSV and import into Tableau
+5. **Visualize**: Build interactive dashboard tailored for executive decision-making 

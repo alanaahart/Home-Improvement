@@ -7,7 +7,7 @@ Interactive financial dashboard for home improvement retailers. Retrieves compan
 
 ## Tableau Dashboard
 
-[View the interactive dashboard on Tableau Public](https://public.tableau.com/shared/FYYB7KMTQ?:display_count=n&:origin=viz_share_link)
+[View the interactive dashboard on Tableau Public]([(https://public.tableau.com/views/HomeImprovement_17613366392310/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
 
 ## Tools & Methods 
 
